@@ -1,2 +1,2 @@
-* @swan-io/core-infra @swan-io/engineering-productivity @quill-swan[bot]
-CODEOWNERS @swan-io/security @swan-io/engineering-productivity
+* @swan-io/core-infra @swan-io/engineering-productivity
+CODEOWNERS @swan-io/security
